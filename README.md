@@ -1,14 +1,12 @@
-# Pipotron CCSC
+# Pipotron CCSC ✅
 
-Projet Next.js avec tous les fichiers à la racine, sauf la page dans `pages/index.tsx`.
+Version 100% fonctionnelle pour Vercel, avec tous les fichiers nécessaires.
 
 ## Lancer en local
-
 ```
 npm install
 npm run dev
 ```
 
 ## Déploiement
-
-Déposer ce dossier dans GitHub, puis connecter à Vercel.
+Importer dans GitHub, connecter à Vercel, et cliquer "Deploy".
